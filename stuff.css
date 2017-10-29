@@ -1,0 +1,35 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	color: #B0BEC5;
+	display: table;
+	font-weight: 100;
+	font-family: 'Lato', sans-serif;
+	background: url("{{asset('olongapo')}}/img/bg.jpg") no-repeat;
+	background-size: cover;
+}
+
+.container {
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
+.content1 {
+	text-align: center;
+	display: inline-block;
+}
+.title {
+	font-size: 20px;
+	margin-bottom: 40px;
+	color: darkslategrey;
+	font-weight: bold;
+	padding: 10px;
+}
+span{position:fixed; right:0;  font-size:50px; color:darkslategrey; font-weight:bold; top:0; font-style:italic;}
+i{position:fixed; left:0;  font-size:50px; color:darkslategrey; font-weight:bold; top:0; }
+.trr{background:#ccc;}
