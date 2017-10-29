@@ -3,10 +3,10 @@
 	<head>
         <title>QUEEN MOVEMENT ALGORITHM</title>
 
-        <link href="css/stuff.css" rel="stylesheet" type="text/css">
-		<script src="scripts/jquery-3.2.1.js"></script>
-		<script src="scripts/jquery-3.2.1.min.js"></script>
-		<script src="scripts/app.js"></script>
+        <link href="stuff.css" rel="stylesheet" type="text/css">
+		<script src="jquery-3.2.1.js"></script>
+		<script src="jquery-3.2.1.min.js"></script>
+		<script src="app.js"></script>
 	<style>
 		html, body {height: 100%; background:#ddd;}
 		.container {
